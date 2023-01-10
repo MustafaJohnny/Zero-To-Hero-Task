@@ -2,7 +2,7 @@
 
 ## Overview
 
-A small Resume Landing Page, This test task was all done in almost 5 hours and the purpose of it is to apply for an internship.
+A Small Resume Landing Page, This test task was all done in almost 5 hours and the purpose of it is to apply for an internship.
 
 ## Links
 
